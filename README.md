@@ -15,13 +15,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. To train the DQN model</p>
-
-```
-model = DQN('CnnPolicy' env verbose=1)
-```
-
-<p>2. Clone the repository:</p>
+<p>1. Clone the repository:</p>
 
 ```
 git clone https://github.com/VibhuRaj01/Chrome-Dino-AI
